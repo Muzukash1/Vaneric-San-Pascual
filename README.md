@@ -8,10 +8,10 @@
 <div align="center">
 
 <!-- ───────── HEADER WAVE ───────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=210&section=header&text=Hey%2C%20I'm%20Muzukash1%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descColor=56cfff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=210&section=header&text=Vaneric%20San%20Pascual&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20and%20Game%20Developer&descAlignY=62&descColor=56cfff&animation=fadeIn" width="100%" />
 
 <!-- ───────── TYPING ANIMATION ───────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=56CFFF&center=true&vCenter=true&width=560&lines=Building+scalable+systems+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Open+Source+Lover;console.log(%22Let's+build+something+awesome!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=56CFFF&center=true&vCenter=true&width=560&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,19 +24,19 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muzukash1&color=56cfff&style=flat-square&label=👀+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Muzukash1&color=56cfff&style=flat-square&label=+Profile+Views)
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- Currently building **[Your Project](https://github.com/Muzukash1/YOUR_REPO)**
-- Learning **Rust · Kubernetes · LLM Fine-tuning**
-- Ask me about **JavaScript, React, Node.js, System Design**
-- Email - vanericsp@gmail.com
-- Fun fact: I automate everything that can be automated
+> I'm a **Full-Stack Developer** passionate about building software and games that push boundaries. I thrive at the intersection of **design and engineering** — writing clean code that is efficient, scalable, and built to last. Currently diving deep into **game development** and distributed systems. Open to collaborations, interesting problems, and good challenges.
+
+- 🔭 Currently building **[City of Faith](https://cityoffaith.site/)**
+- 🌱 Learning **Laravel · AI Integrated · PHP**
+- 📫 **vanericsp@gmail.com**
 
 ---
 
