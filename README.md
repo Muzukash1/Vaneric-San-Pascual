@@ -34,9 +34,9 @@
 
 > I'm a **Full-Stack Developer** passionate about building software and games that push boundaries. I thrive at the intersection of **design and engineering** — writing clean code that is efficient, scalable, and built to last. Currently diving deep into **game development** and distributed systems. Open to collaborations, interesting problems, and good challenges.
 
-- 🔭 Currently building **[City of Faith](https://cityoffaith.site/)**
-- 🌱 Learning **Laravel · AI Integrated · PHP**
-- 📫 **vanericsp@gmail.com**
+- 🔭 Currently - building **[City of Faith](https://cityoffaith.site/)**
+- 🌱 Learning - **Laravel · AI Integrated · PHP**
+- 📫 Email - **vanericsp@gmail.com**
 
 ---
 
@@ -73,10 +73,6 @@
 <div align="center">
 
 <!-- Main Stats Card — Blue/Cyan palette -->
-<img src="https://github-readme-stats.vercel.app/api?username=Muzukash1&show_icons=true&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a&rank_icon=github&include_all_commits=true&count_private=true" height="195" />
-
-<!-- Top Languages — Donut style -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzukash1&layout=donut&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&text_color=a8edea&bg_color=0d1b2a&langs_count=8" height="195" />
 
 </div>
 
