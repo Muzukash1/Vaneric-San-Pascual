@@ -1,21 +1,134 @@
-<h1 align="center">Hi 👋, I'm Vaneric San Pascual</h1>
-<h3 align="center">A passionate frontend developer and aspiring full-stack developer</h3>
+<!--
+╔══════════════════════════════════════════════════════╗
+  GITHUB PROFILE README — @Muzukash1
+  ✏️  Update your name, bio, links, and repo names
+╚══════════════════════════════════════════════════════╝
+-->
 
-- 🔭 I’m currently working on **vaneric_portfolio**
+<div align="center">
 
-- 🌱 I’m currently learning **JavaScript, PHP, Laravel, and modern web development**
+<!-- ───────── HEADER WAVE ───────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=210&section=header&text=Hey%2C%20I'm%20Muzukash1%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descColor=56cfff&animation=fadeIn" width="100%" />
 
-- 👯 I’m looking to collaborate on **Web development projects**
+<!-- ───────── TYPING ANIMATION ───────── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=56CFFF&center=true&vCenter=true&width=560&lines=Building+scalable+systems+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Open+Source+Lover;console.log(%22Let's+build+something+awesome!%22))](https://git.io/typing-svg)
 
-- 🤝 I’m looking for help with **Improving backend & full-stack development skills**
+<br/>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and GitHub basics**
+<!-- ───────── SOCIAL BADGES ───────── -->
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muzukash1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-56cfff?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-- 📫 How to reach me **vanericsp@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Muzukash1&color=56cfff&style=flat-square&label=👀+Profile+Views)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const developer = {
+  username: "Muzukash1",
+  role:     "Full-Stack Engineer",
+  location: "Your City, Country 🌏",
+  stack:    ["React", "Node.js", "TypeScript", "Python", "AWS"],
+  learning: ["Rust", "Kubernetes", "LLM Fine-tuning"],
+  motto:    "Ship fast. Learn faster. Build better.",
+};
+```
+
+- 🔭 Currently building **[Your Project](https://github.com/Muzukash1/YOUR_REPO)**
+- 🌱 Learning **Rust · Kubernetes · LLM Fine-tuning**
+- 💬 Ask me about **JavaScript, React, Node.js, System Design**
+- 📫 **your@email.com**
+- ⚡ Fun fact: I automate everything that can be automated
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Main Stats Card — Blue/Cyan palette -->
+<img src="https://github-readme-stats.vercel.app/api?username=Muzukash1&show_icons=true&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a&rank_icon=github&include_all_commits=true&count_private=true" height="195" />
+
+<!-- Top Languages — Donut style -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzukash1&layout=donut&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&text_color=a8edea&bg_color=0d1b2a&langs_count=8" height="195" />
+
+</div>
+
+<div align="center">
+
+<!-- Streak Card — Blue/Cyan ring glow -->
+<img src="https://streak-stats.demolab.com?user=Muzukash1&theme=tokyonight&hide_border=false&border=56cfff&ring=00bfff&fire=56cfff&stroke=56cfff&currStreakNum=a8edea&sideNums=a8edea&currStreakLabel=56cfff&sideLabels=56cfff&dates=627fea&background=0d1b2a" width="60%" />
+
+</div>
+
+<div align="center">
+
+
+</div>
+
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_1&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/YOUR_REPO_1)
+[![Pin 2](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_2&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/YOUR_REPO_2)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Muzukash1/Muzukash1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Muzukash1/Muzukash1/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/Muzukash1/Muzukash1/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&animation=fadeIn" width="100%" />
+
+*"Always learning. Always building. Always shipping. 🚀"*
+
+</div>
